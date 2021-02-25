@@ -116,7 +116,6 @@ echo -e "\e[1;34m [!] Your welcome [!]\e[0m"
 sleep 1
 clear
 menu 
-fi
 }
 
 updatepkg() {
